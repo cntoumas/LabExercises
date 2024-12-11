@@ -15,5 +15,5 @@ int main () {
     Dog d;
     cout << "The legs are: " << d.legs << endl;
     cout << "The tail is: " << d.tail;
-    return 0 
+    return 0; 
 }
