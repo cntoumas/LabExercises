@@ -1,2 +1,2 @@
-// ftiakse omorfa kai swsta ton kwdika class coordinates
+//ASKHSH 6 APO TO PDF 
 
